@@ -18,7 +18,6 @@ def make_soup(URL):
         return None
 
 
-
 #   Target the right section without traversing through a long path...
 #   Given a soup objects containing continent info
 #   Returns a list of continent names
@@ -35,9 +34,9 @@ def stripNonAlphabetic(s):
     return pattern.sub('',s)
 
 #  Given an URL of continent wiki page
-#  Return a list of capitals
-def getCapitals(continentURL):
-    soup = make_soup(continentURL)
+#  Return a list of (capital, CapitalURLs)
+def getCapitals(base_URL):
+    soup = make_soup(base_URL)
     capitalList = []
     if soup:
         body = soup.find('body')
@@ -53,8 +52,9 @@ def getCapitals(continentURL):
                 for r in rows:
                     fields = r.findAll('td')
                     try:
+                        capitalURL = fields[capitalIndex].findAll('a')[0]['href']
                         capitalName = fields[capitalIndex].findAll('a')[0].get_text()
-                        capitalList.append(stripNonAlphabetic(capitalName))
+                        capitalList.append((stripNonAlphabetic(capitalName), capitalURL))
                     except IndexError:
                         capitalList.append(None)
 
@@ -65,8 +65,8 @@ def getCapitals(continentURL):
 
 #   Given a capital name
 #   Return text string
-def getText(capitalURL):
-    soup = make_soup(capitalURL)
+def getText(URL):
+    soup = make_soup(URL)
 
     if soup:
         paragraphs = soup.findAll('p')
@@ -84,40 +84,27 @@ def writeText(text,name,continent):
         f.write(text)
 
 def main():
-    #ROOT_URL for extracting capital and Continent texts
-    ROOT_URL = 'https://en.wikipedia.org/wiki/%s'
-
     #URL to extract continents
     BASE_URL = 'https://en.wikipedia.org/wiki/List_of_countries_and_capitals_with_currency_and_language'
 
-    #RootURL to extract capitals from continent
+    #RootURL to extract capital names from continent
     capital_LIST_URL = 'https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_%s'
 
-    continents = getContinents(BASE_URL)
+    #ROOT_URL for extracting capital texts
+    ROOT_URL = 'https://en.wikipedia.org%s'
 
+
+    continents = getContinents(BASE_URL)
     for continent in continents[:]:
         continent = continent.replace(' ','_') #Replace space in the continent name
         os.system('mkdir txt/%s'%continent) #create a subfolder containing continent info
-        #print('continent is %s'%continent)
-        cont_URL = ROOT_URL%continent
-        #print(cont_URL)
-
-        #Write continent texts
-        cont_text = getText(cont_URL)
-        writeText(cont_text, continent, continent)
-
         #Get list of capitals
         capitals = getCapitals(capital_LIST_URL%continent)
-
-
         for capital in capitals:
             if capital:
                 print(capital)
-                cap_text = getText(ROOT_URL%quote(capital))
-                writeText(cap_text,capital,continent)
-
-
-
+                cap_text = getText(ROOT_URL%quote(capital[1]))
+                writeText(cap_text,capital[0],continent)
 
 
 
