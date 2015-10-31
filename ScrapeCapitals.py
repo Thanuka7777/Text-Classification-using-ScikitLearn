@@ -8,7 +8,6 @@ import os
 from urllib.parse import quote #deal with unicode in URL
 
 
-
 #Make a soup from a specific URL
 def make_soup(URL):
     try:
@@ -32,6 +31,7 @@ def getContinents(URL):
 def stripNonAlphabetic(s):
     pattern = re.compile(r'[\[\]0-9\n ]')
     return pattern.sub('',s)
+
 
 #  Given an URL of continent wiki page
 #  Return a list of (capital, CapitalURLs)
@@ -61,8 +61,6 @@ def getCapitals(base_URL):
     return capitalList
 
 
-
-
 #   Given a capital name
 #   Return text string
 def getText(URL):
@@ -74,8 +72,6 @@ def getText(URL):
         return capital_text
     else:
         return ''
-
-
 
 #   Given text string and Capital name
 #   Write text to a file
@@ -103,11 +99,26 @@ def main():
         for capital in capitals:
             if capital:
                 print(capital)
+<<<<<<< HEAD
                 cap_text = getText(ROOT_URL%quote(capital[1]))
                 writeText(cap_text,capital[0],continent)
 
 
 
+||||||| merged common ancestors
+                cap_text = getText(ROOT_URL%quote(capital))
+                writeText(cap_text,capital,continent)
+
+
+
+
+
+
+=======
+                cap_text = getText(ROOT_URL%quote(capital))
+                writeText(cap_text,capital,continent)
+
+>>>>>>> a32ea45c1aa40d98c55138f3b23fabd5631c0a93
 if __name__ == '__main__':
     main()
 
