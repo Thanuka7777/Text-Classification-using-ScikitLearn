@@ -99,26 +99,10 @@ def main():
         for capital in capitals:
             if capital:
                 print(capital)
-<<<<<<< HEAD
                 cap_text = getText(ROOT_URL%quote(capital[1]))
                 writeText(cap_text,capital[0],continent)
 
 
-
-||||||| merged common ancestors
-                cap_text = getText(ROOT_URL%quote(capital))
-                writeText(cap_text,capital,continent)
-
-
-
-
-
-
-=======
-                cap_text = getText(ROOT_URL%quote(capital))
-                writeText(cap_text,capital,continent)
-
->>>>>>> a32ea45c1aa40d98c55138f3b23fabd5631c0a93
 if __name__ == '__main__':
     main()
 
