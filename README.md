@@ -11,4 +11,8 @@ The workflow process is as follows:
     3. Use findAll() function to traserve down to the tag level
     4. Get texts, titles, etc by specifying specific tags, such as 'table'
     
-**Step 2**: Using ScikitLearn and NLTK packages to build algorithms to classify country capitals
+**Step 2**: Using ScikitLearn and NLTK packages to build algorithms to classify country capitals. Three python files:
+
+    1. capitalCorpus.py: main text corpus class containing texts and labels
+    2. textTransformer.py: a transfomer class used to transform raw texts (removing stopwords, stemming, etc)
+    3. Classify.py: classification script
