@@ -2,289 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c32ee9e-58db-4d0e-91ca-fb44934a6dfc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Abuja.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Accra.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/AddisAbaba.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Africa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Algiers.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Antananarivo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Asmara.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Bamako.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Bangui.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Banjul.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Bissau.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Bloemfontein.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Brazzaville.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Bujumbura.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Cairo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Conakry.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Dakar.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/DjiboutiCity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Dodoma.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/ElAaiún.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Freetown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Funchal.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Gaborone.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Harare.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Hargeisa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Jamestown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Juba.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Kampala.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Khartoum.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Kigali.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Kinshasa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/LampedusaeLinosa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Libreville.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Lilongwe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Lobamba.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Lomé.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Luanda.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Lusaka.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Malabo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Mamoudzou.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Maputo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Maseru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Mogadishu.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Monrovia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Moroni.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/N'Djamena.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Nairobi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Niamey.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Nouakchott.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Ouagadougou.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/PortLouis.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Porto-Novo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Praia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Rabat.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Saint-Denis.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Saint-Pierre.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/SantaCruz.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Spanish.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/SãoTomé.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Tripoli.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Tunis.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Victoria.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Windhoek.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Yamoussoukro.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Africa/Yaoundé.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Antarctica/Antarctica.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/AbuDhabi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Amman.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Ankara.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Ashgabat.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Asia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Astana.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Baghdad.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Baku.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/BandarSeriBegawan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Bangkok.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Beijing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Beirut.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Bishkek.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Damascus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Dhaka.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Dili.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Doha.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Dushanbe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/EpiskopiCantonment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/FlyingFishCove.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Hanoi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/HongKong.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Islamabad.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Jakarta.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Jerusalem.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Kabul.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Kathmandu.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/KualaLumpur.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/KuwaitCity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Macau.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Malé.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Manama.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Manila.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Moscow.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Muscat.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/NayPyiTaw.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/NewDelhi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Nicosia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/PhnomPenh.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Pyongyang.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Ramallah.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Riyadh.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Sana'a.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Seoul.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Singapore.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/SriJayawardenapuraKotte.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Stepanakert.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Sukhumi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Taipei.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Tashkent.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Tbilisi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Tehran.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Thimphu.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Tokyo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Tskhinvali.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Ulaanbaatar.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Vientiane.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/WestIsland.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Asia/Yerevan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Amsterdam.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/AndorralaVella.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Ankara.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Astana.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Athens.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Baku.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Belfast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Belgrade.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Berlin.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Bern.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Bratislava.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Brussels.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Bucharest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Budapest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Chișinău.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Copenhagen.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Douglas.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Dublin.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/EpiskopiCantonment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Europe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/French.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Gibraltar.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Helsinki.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Italian.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Jerusalem.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Kiev.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Lisbon.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Ljubljana.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/London.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Longyearbyen.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Luxembourg.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Madrid.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Mariehamn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Minsk.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Moscow.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Nicosia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Nuuk.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Oslo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Paris.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Podgorica.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Prague.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Pristina.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Reykjavík.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Riga.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Rome.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/SaintHelier.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/SaintPeterPort.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/SanMarino.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Sarajevo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Skopje.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Sofia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Stepanakert.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Stockholm.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Sukhumi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Tallinn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Tbilisi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Tirana.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Tiraspol.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Tskhinvali.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Tórshavn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Vaduz.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Valletta.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Vienna.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Vilnius.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Warsaw.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Yerevan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Europe/Zagreb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Basse-Terre.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Basseterre.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Belmopan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Bridgetown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Castries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/CharlotteAmalie.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/CockburnTown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Fort-de-France.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/GeorgeTown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/GuatemalaCity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Gustavia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Hamilton.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Havana.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Kingston.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Kingstown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Kralendijk.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Managua.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Marigot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/MexicoCity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Nassau.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/North_America.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Nuuk.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Oranjestad.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Ottawa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/PanamaCity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Philipsburg.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Plymouth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Port-au-Prince.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/PortofSpain.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/RoadTown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Roseau.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Saint-Pierre.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/SanAndrés.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/SanJosé.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/SanJuan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/SanSalvador.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/SantoDomingo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/St.George's.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/St.John's.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Tegucigalpa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/TheBottom.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/TheValley.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Washington,D.C..txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/North_America/Willemstad.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Adamstown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Alofi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Apia.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Avarua.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Canberra.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Funafuti.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Hagåtña.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/HangaRoa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Honiara.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Honolulu.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Jayapura.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Kingston.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Majuro.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Manokwari.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Mata-Utu.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Ngerulmud.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Nouméa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Nukuʻalofa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Oceania.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/PagoPago.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Palikir.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Papeete.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/PortMoresby.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/PortVila.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Saipan.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/SanJuanBautista.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Suva.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Tarawa.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Wellington.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/Oceania/Yaren.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Asunción.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Bogotá.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Brasília.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/BuenosAires.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Caracas.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Cayenne.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Georgetown.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/KingEdwardPoint.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Lima.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Montevideo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Paramaribo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Quito.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Santiago.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/South_America.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Stanley.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/txt/South_America/Sucre.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScrapeCapitals.py" afterPath="$PROJECT_DIR$/ScrapeCapitals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/capitalCorpus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textTransformer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Africa/Algiers.txt" afterPath="$PROJECT_DIR$/txt/Africa/Algiers.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Baghdad.txt" afterPath="$PROJECT_DIR$/txt/Asia/Baghdad.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Beirut.txt" afterPath="$PROJECT_DIR$/txt/Asia/Beirut.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Bratislava.txt" afterPath="$PROJECT_DIR$/txt/Europe/Bratislava.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Brussels.txt" afterPath="$PROJECT_DIR$/txt/Europe/Brussels.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/South_America/BuenosAires.txt" afterPath="$PROJECT_DIR$/txt/South_America/BuenosAires.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Dhaka.txt" afterPath="$PROJECT_DIR$/txt/Asia/Dhaka.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Gibraltar.txt" afterPath="$PROJECT_DIR$/txt/Europe/Gibraltar.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/KualaLumpur.txt" afterPath="$PROJECT_DIR$/txt/Asia/KualaLumpur.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Moscow.txt" afterPath="$PROJECT_DIR$/txt/Asia/Moscow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Moscow.txt" afterPath="$PROJECT_DIR$/txt/Europe/Moscow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Muscat.txt" afterPath="$PROJECT_DIR$/txt/Asia/Muscat.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Paris.txt" afterPath="$PROJECT_DIR$/txt/Europe/Paris.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Sofia.txt" afterPath="$PROJECT_DIR$/txt/Europe/Sofia.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Africa/Spanish.txt" afterPath="$PROJECT_DIR$/txt/Africa/Spanish.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Taipei.txt" afterPath="$PROJECT_DIR$/txt/Asia/Taipei.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Tirana.txt" afterPath="$PROJECT_DIR$/txt/Europe/Tirana.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Asia/Tokyo.txt" afterPath="$PROJECT_DIR$/txt/Asia/Tokyo.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Vienna.txt" afterPath="$PROJECT_DIR$/txt/Europe/Vienna.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Vilnius.txt" afterPath="$PROJECT_DIR$/txt/Europe/Vilnius.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/txt/Europe/Warsaw.txt" afterPath="$PROJECT_DIR$/txt/Europe/Warsaw.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Scraping_BeautifulSoup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -305,14 +47,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ScrapeCapitals.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScrapeCapitals.py">
+      <file leaf-file-name="textTransformer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/textTransformer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8688811">
-              <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5804196">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding>
-                <element signature="e#23#52#0" expanded="true" />
+                <element signature="e#25#58#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="capitalCorpus.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/capitalCorpus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -335,6 +87,10 @@
         <option value="$PROJECT_DIR$/Scraper.py" />
         <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/ScrapeCapitals.py" />
+        <option value="$PROJECT_DIR$/CleanTexts.py" />
+        <option value="$PROJECT_DIR$/textTransformer.py" />
+        <option value="$PROJECT_DIR$/capitalCorpus.py" />
+        <option value="$PROJECT_DIR$/Classify.py" />
       </list>
     </option>
   </component>
@@ -370,7 +126,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -385,18 +140,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Text-Classification-using-ScikitLearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Scraping_BeautifulSoup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Text-Classification-using-ScikitLearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="txt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Python.ScrapeCapitals">
     <configuration default="false" name="ScrapeCapitals" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -548,6 +319,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5c32ee9e-58db-4d0e-91ca-fb44934a6dfc" name="Default" comment="" />
@@ -561,42 +335,179 @@
     <frame x="10" y="43" width="1260" height="669" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ScrapeCapitals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8688811">
+        <state vertical-scroll-proportion="0.0">
           <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitalCorpus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapeCapitals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Europe/Athens.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Asia/Dhaka.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33204633">
+          <caret line="0" column="12624" selection-start-line="0" selection-start-column="12621" selection-end-line="0" selection-end-column="12624" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Asia/Beirut.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Asia/Beijing.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Asia/WestIsland.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Africa/Accra.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Africa/Algiers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitalCorpus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52797204">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapeCapitals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8916084">
+          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt/Africa/Abuja.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24770643">
+          <caret line="0" column="1114" selection-start-line="0" selection-start-column="1114" selection-end-line="0" selection-end-column="1114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textTransformer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5804196">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#25#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
