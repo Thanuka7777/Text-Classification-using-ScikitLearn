@@ -31,6 +31,3 @@ class textTransformer(object):
        return ' '.join(transformedList)
 
 
-if __name__=='__main__':
-    transformer = textTransformer()
-    print(transformer.transform('We are the, light! of Khala[12232]'))
